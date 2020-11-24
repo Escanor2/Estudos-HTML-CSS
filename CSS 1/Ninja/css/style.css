@@ -1,0 +1,38 @@
+/*************************************************
+             Criado por Zero um Filósofo
+             em 23/11/2020
+*************************************************/
+
+
+/*#header{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+*/
+#header h1{
+    font-size: 32px !important;
+}
+ 
+p,h1{
+    font-size: 12px;
+}
+
+a{
+    text-decoration: underline;
+    color: blue;
+}
+
+span{
+    text-transform: uppercase;
+    display: block;
+}
+
+h1{
+    font-size: 32px;
+}
+
+div{
+    width: 100%;
+    background-color: grey;
+}
